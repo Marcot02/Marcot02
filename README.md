@@ -8,8 +8,6 @@ Passionate about software engineering, system architecture, and low-level develo
 
 ### 💻 Tech Stack & Tools
 
-### 💻 Tech Stack & Tools
-
 - **Languages:** 
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -31,8 +29,6 @@ Passionate about software engineering, system architecture, and low-level develo
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
